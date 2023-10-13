@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTS", "BTS\BTS.csproj", "{814AFB33-58E8-4E26-8A69-C858EB03EE15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{814AFB33-58E8-4E26-8A69-C858EB03EE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814AFB33-58E8-4E26-8A69-C858EB03EE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814AFB33-58E8-4E26-8A69-C858EB03EE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814AFB33-58E8-4E26-8A69-C858EB03EE15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
